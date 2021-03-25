@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="entitlement_condition" table="x_457861_it_asset_software_license_read_only">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>staticDependent=cmdb_ci</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Allocated condition</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>entitlement_condition</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Conditions">conditions</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>1000</max_length>
+        <name>x_457861_it_asset_software_license_read_only</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>true</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-24 03:18:12</sys_created_on>
+        <sys_id>b7675f8a07032010245ffbbf7c1ed0d9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Allocated condition</sys_name>
+        <sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope>
+        <sys_update_name>sys_dictionary_x_457861_it_asset_software_license_read_only_entitlement_condition</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 04:32:46</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</application>
+        <file_path/>
+        <instance_id>a83b2576dbc63b482f68c597059619d2</instance_id>
+        <instance_name>dev87957</instance_name>
+        <name>sys_dictionary_x_457861_it_asset_software_license_read_only_entitlement_condition</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="entitlement_condition" table="x_457861_it_asset_software_license_read_only"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;staticDependent=cmdb_ci&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Allocated condition&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;entitlement_condition&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Conditions"&gt;conditions&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;1000&lt;/max_length&gt;&lt;name&gt;x_457861_it_asset_software_license_read_only&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;true&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-03-24 03:18:12&lt;/sys_created_on&gt;&lt;sys_id&gt;b7675f8a07032010245ffbbf7c1ed0d9&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Allocated condition&lt;/sys_name&gt;&lt;sys_package display_value="IT Asset Management" source="x_457861_it_asset"&gt;ceac8af907032010245ffbbf7c1ed0ac&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="IT Asset Management"&gt;ceac8af907032010245ffbbf7c1ed0ac&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_457861_it_asset_software_license_read_only_entitlement_condition&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-03-25 04:32:46&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>760555133</payload_hash>
+        <record_name>Software License Read Only.Allocated condition</record_name>
+        <reverted_from/>
+        <source>82ac8af907032010245ffbbf7c1ed0af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 04:32:46</sys_created_on>
+        <sys_id>e112b4e6078f2010245ffbbf7c1ed063</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17867a7ff180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 04:32:46</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>a912b4e6af8f201040673cf01111dd62</update_guid>
+        <update_guid_history>a912b4e6af8f201040673cf01111dd62:760555133,7b675f8a80032010b9b5fb259d92a6e2:1853398763,6078337592872010be8317840b7b7a60:-852770145,4ce43bbd92472010336bf9eb7cb6fa4a:1853398763,a3a4fb7d01472010304b76ad0f2caef2:-852770145,0fa2773d90472010487b694e5e494a4d:1853398763,1a72b7f98f4720103ba24464e7a1b874:-852770145,24b03f79184720103ab030643db28d82:1853398763,0580337970472010157596585ad7b1fe:-852770145,64efa73956472010ee36c3fc9cd6ad0f:1853398763,d0bfabf515472010e22759623d3ee2ab:-852770145,bc9e2fb549472010755aa40ed021565d:1853398763,286e23b5ae4720109f07f18c630ae0c6:-852770145,509c6b3566472010e81c0b29c5ccc871:1853398763,496caff1da47201077b57d600584be2d:-852770145,37eba7f1ec472010068f2ccf230b7060:1853398763,0abb6bb138472010810a8c185cfc6db2:-852770145,91ba2f71d947201033cd98106a07a79f:1853398763,b58a6371b0472010cde306093095a9b1:-852770145,aa7a6f3173472010734dffa244d64064:1853398763,b34aa33167472010cea2d1f537e3d23e:-852770145,f48927fd560720104bf9f1f6b1b45394:1853398763,fdf8a3bd97072010da86d85261404d5a:-852770145,f8882b7d5607201080e8cf0588c4c941:1853398763,b9582f3ded072010b7ec18cd6c3da7b3:-852770145,bf18e33d830720109b1f2191a0cb05f0:1853398763,77e7e7f9a4072010dc20016b212b0485:-852770145,a0e6e7b90e0720100552e2bf14178d36:1853398763,06e56379fb072010c0f9bbcab9d9fd12:-852770145,e9b4eff5b307201061ec57c6f3707d79:1853398763</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 08:00:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>12210305a7a74704869d227f66a6ecd9</sys_id>
+        <sys_metadata>b7675f8a07032010245ffbbf7c1ed0d9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Allocated condition</sys_name>
+        <sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package>
+        <sys_parent display_value="Software License Read Only">83bf870607032010245ffbbf7c1ed0c5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope>
+        <sys_scope_delete display_value="">67912c6a17944940b5a5bf2208ceff49</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_457861_it_asset_software_license_read_only_entitlement_condition</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_457861_it_asset_software_license_read_only_entitlement_condition">e112b4e6078f2010245ffbbf7c1ed063</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 08:00:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

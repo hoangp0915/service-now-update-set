@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="justification" table="x_457861_it_asset_software_license_read_only" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>justification</element>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-23 10:48:02</sys_created_on>
+            <sys_id>43c4f3bd07472010245ffbbf7c1ed0c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>justification</sys_name>
+            <sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope>
+            <sys_update_name>sys_choice_x_457861_it_asset_software_license_read_only_justification</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-23 10:48:02</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New employee hire</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>097145d607472010245ffbbf7c1ed051</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:25</sys_updated_on>
+            <value>New employee hire</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Replace in repair</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>817145d607472010245ffbbf7c1ed054</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:25</sys_updated_on>
+            <value>Replace in repair</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Replace stolen</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d7145d607472010245ffbbf7c1ed056</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:25</sys_updated_on>
+            <value>Replace stolen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Replacement</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>097145d607472010245ffbbf7c1ed059</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:25</sys_updated_on>
+            <value>Replacement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Stock replenishment</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c17145d607472010245ffbbf7c1ed05c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:25</sys_updated_on>
+            <value>Stock replenishment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Swap</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d7145d607472010245ffbbf7c1ed05e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:25</sys_updated_on>
+            <value>Swap</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Testing</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>497145d607472010245ffbbf7c1ed061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:25</sys_updated_on>
+            <value>Testing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Upgrade</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>057145d607472010245ffbbf7c1ed064</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:25</sys_updated_on>
+            <value>Upgrade</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>新規従業員雇用</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>517145d607472010245ffbbf7c1ed077</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>New employee hire</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>修理交換</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d97145d607472010245ffbbf7c1ed071</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>Replace in repair</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>盗難交換</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d7145d607472010245ffbbf7c1ed079</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>Replace stolen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>交換</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>017145d607472010245ffbbf7c1ed06f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>Replacement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>在庫補充</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>957145d607472010245ffbbf7c1ed074</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>Stock replenishment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>スワップ</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>897145d607472010245ffbbf7c1ed069</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>Swap</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>テスト中</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>457145d607472010245ffbbf7c1ed06c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>Testing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>アップグレード</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd7145d607472010245ffbbf7c1ed066</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:25</sys_updated_on>
+            <value>Upgrade</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

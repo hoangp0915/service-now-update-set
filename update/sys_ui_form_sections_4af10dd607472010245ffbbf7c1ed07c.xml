@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="4af10dd607472010245ffbbf7c1ed07c" sys_domain="global" table="x_457861_it_asset_software_license_read_only" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:03:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46f10dd607472010245ffbbf7c1ed07d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_software_license_read_only" name="x_457861_it_asset_software_license_read_only" sys_domain="global" view="Default view">4af10dd607472010245ffbbf7c1ed07c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_457861_it_asset_software_license_read_only" sys_domain="global" view="Default view">9d1e701607472010245ffbbf7c1ed0c0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:03:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:03:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ef10dd607472010245ffbbf7c1ed07e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_software_license_read_only" name="x_457861_it_asset_software_license_read_only" sys_domain="global" view="Default view">4af10dd607472010245ffbbf7c1ed07c</sys_ui_form>
+            <sys_ui_section caption="&#9;General" display_value="&#9;General" name="x_457861_it_asset_software_license_read_only" sys_domain="global" view="Default view">4ef10dd607472010245ffbbf7c1ed07d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:03:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:04:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa1209d607472010245ffbbf7c1ed08d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_software_license_read_only" name="x_457861_it_asset_software_license_read_only" sys_domain="global" view="Default view">4af10dd607472010245ffbbf7c1ed07c</sys_ui_form>
+            <sys_ui_section caption="&#9;Financial" display_value="&#9;Financial" name="x_457861_it_asset_software_license_read_only" sys_domain="global" view="Default view">3e1209d607472010245ffbbf7c1ed08b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:04:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:04:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c722cdd607472010245ffbbf7c1ed07b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_software_license_read_only" name="x_457861_it_asset_software_license_read_only" sys_domain="global" view="Default view">4af10dd607472010245ffbbf7c1ed07c</sys_ui_form>
+            <sys_ui_section caption="&#9;Contracts" display_value="&#9;Contracts" name="x_457861_it_asset_software_license_read_only" sys_domain="global" view="Default view">072209d607472010245ffbbf7c1ed093</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:04:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:04:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8332011a07472010245ffbbf7c1ed01e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_software_license_read_only" name="x_457861_it_asset_software_license_read_only" sys_domain="global" view="Default view">4af10dd607472010245ffbbf7c1ed07c</sys_ui_form>
+            <sys_ui_section caption="Device Entitlements" display_value="Device Entitlements" name="x_457861_it_asset_software_license_read_only" sys_domain="global" view="Default view">c3320dd607472010245ffbbf7c1ed077</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:04:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:05:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c5209d607472010245ffbbf7c1ed0cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_software_license_read_only" name="x_457861_it_asset_software_license_read_only" sys_domain="global" view="Default view">4af10dd607472010245ffbbf7c1ed07c</sys_ui_form>
+            <sys_ui_section caption="&#9;User Entitlements" display_value="&#9;User Entitlements" name="x_457861_it_asset_software_license_read_only" sys_domain="global" view="Default view">f45209d607472010245ffbbf7c1ed0cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:05:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:05:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f52411a07472010245ffbbf7c1ed09e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_software_license_read_only" name="x_457861_it_asset_software_license_read_only" sys_domain="global" view="Default view">4af10dd607472010245ffbbf7c1ed07c</sys_ui_form>
+            <sys_ui_section caption="&#9;Activities" display_value="&#9;Activities" name="x_457861_it_asset_software_license_read_only" sys_domain="global" view="Default view">23524dd607472010245ffbbf7c1ed094</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:05:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:03:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4af10dd607472010245ffbbf7c1ed07c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_457861_it_asset_software_license_read_only</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4af10dd607472010245ffbbf7c1ed07c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:03:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

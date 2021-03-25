@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="459bf49207472010245ffbbf7c1ed0cb" sys_domain="global" table="x_457861_it_asset_hardware_read_only" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 10:35:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>099bf49207472010245ffbbf7c1ed0cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_hardware_read_only" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">459bf49207472010245ffbbf7c1ed0cb</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">2957989607c32010245ffbbf7c1ed025</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 10:35:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 10:35:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>059bf49207472010245ffbbf7c1ed0ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_hardware_read_only" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">459bf49207472010245ffbbf7c1ed0cb</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">419bf49207472010245ffbbf7c1ed0cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 10:35:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 10:38:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>272cb89207472010245ffbbf7c1ed061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_hardware_read_only" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">459bf49207472010245ffbbf7c1ed0cb</sys_ui_form>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">672cb89207472010245ffbbf7c1ed05f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 10:38:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 10:39:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b7c70d207472010245ffbbf7c1ed0b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_hardware_read_only" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">459bf49207472010245ffbbf7c1ed0cb</sys_ui_form>
+            <sys_ui_section caption="Disposal" display_value="Disposal" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">2b7c70d207472010245ffbbf7c1ed0b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 10:39:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 10:42:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>631df0d207472010245ffbbf7c1ed054</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_hardware_read_only" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">459bf49207472010245ffbbf7c1ed0cb</sys_ui_form>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">af1df0d207472010245ffbbf7c1ed051</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 10:42:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 10:42:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e32db4d207472010245ffbbf7c1ed00e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_hardware_read_only" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">459bf49207472010245ffbbf7c1ed0cb</sys_ui_form>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">af2db4d207472010245ffbbf7c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 10:42:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 10:43:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d84d78d207472010245ffbbf7c1ed0d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_hardware_read_only" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">459bf49207472010245ffbbf7c1ed0cb</sys_ui_form>
+            <sys_ui_section caption="Entitlements" display_value="Entitlements" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">144d78d207472010245ffbbf7c1ed0d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 10:43:04</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 10:43:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b4d34d207472010245ffbbf7c1ed076</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_457861_it_asset_hardware_read_only" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">459bf49207472010245ffbbf7c1ed0cb</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_457861_it_asset_hardware_read_only" sys_domain="global" view="Default view">334d34d207472010245ffbbf7c1ed074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 10:43:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 10:35:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>459bf49207472010245ffbbf7c1ed0cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_457861_it_asset_hardware_read_only</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope>
+            <sys_update_name>sys_ui_form_sections_459bf49207472010245ffbbf7c1ed0cb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 10:35:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

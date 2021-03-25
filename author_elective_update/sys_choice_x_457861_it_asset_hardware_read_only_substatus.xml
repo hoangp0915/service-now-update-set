@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="substatus" table="x_457861_it_asset_hardware_read_only" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>substatus</element>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_id>fbca53ce07032010245ffbbf7c1ed010</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>substatus</sys_name>
+            <sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope>
+            <sys_update_name>sys_choice_x_457861_it_asset_hardware_read_only_substatus</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Available</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73ca53ce07032010245ffbbf7c1ed010</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Available</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bfca53ce07032010245ffbbf7c1ed012</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>利用可能</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bbca53ce07032010245ffbbf7c1ed01d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>利用可能</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffca53ce07032010245ffbbf7c1ed01a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Disposed</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7bca53ce07032010245ffbbf7c1ed015</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>disposed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>廃棄済み</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77ca53ce07032010245ffbbf7c1ed020</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>disposed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lost</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37ca53ce07032010245ffbbf7c1ed018</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>lost</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>紛失</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33ca53ce07032010245ffbbf7c1ed023</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>lost</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reserved</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7ca53ce07032010245ffbbf7c1ed028</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reserved</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fbca53ce07032010245ffbbf7c1ed025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>予約済み</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80da53ce07032010245ffbbf7c1ed033</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>予約済み</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4da53ce07032010245ffbbf7c1ed030</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sold</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73ca53ce07032010245ffbbf7c1ed02b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>sold</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>販売済み</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84da53ce07032010245ffbbf7c1ed051</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>sold</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Stolen</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3fca53ce07032010245ffbbf7c1ed02d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>stolen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>盗難</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cda53ce07032010245ffbbf7c1ed035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>stolen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Defective</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0cda53ce07032010245ffbbf7c1ed056</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>defective</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Defective</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40da53ce07032010245ffbbf7c1ed054</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>defective</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>欠陥品</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08da53ce07032010245ffbbf7c1ed061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>defective</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>欠陥品</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cda53ce07032010245ffbbf7c1ed05e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>defective</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Donated</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4da53ce07032010245ffbbf7c1ed059</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>donated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>寄贈済み</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80da53ce07032010245ffbbf7c1ed05c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:58</sys_updated_on>
+            <value>donated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending install</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0da53ce07032010245ffbbf7c1ed064</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>pending_install</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>保留中のインストール</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ccda53ce07032010245ffbbf7c1ed06e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>pending_install</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending repair</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8cda53ce07032010245ffbbf7c1ed066</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>pending_repair</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>保留中の修理</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88da53ce07032010245ffbbf7c1ed071</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>pending_repair</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vendor credit</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48da53ce07032010245ffbbf7c1ed069</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>vendor_credit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ベンダークレジット</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04da53ce07032010245ffbbf7c1ed06c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>vendor_credit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending disposal</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44da53ce07032010245ffbbf7c1ed074</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>pending_disposal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>保留中の廃棄</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>94da53ce07032010245ffbbf7c1ed07c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>pending_disposal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending install</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10da53ce07032010245ffbbf7c1ed077</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>pending_install</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>保留中のインストール</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8da53ce07032010245ffbbf7c1ed079</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>pending_install</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending disposal</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50da53ce07032010245ffbbf7c1ed07f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>pending_disposal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>保留中の廃棄</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:33:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90da53ce07032010245ffbbf7c1ed087</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:33:00</sys_updated_on>
+            <value>pending_disposal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pre-allocated</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1cda53ce07032010245ffbbf7c1ed081</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>pre_allocated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>事前割り当て済み</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:32:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4da53ce07032010245ffbbf7c1ed084</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:32:59</sys_updated_on>
+            <value>pre_allocated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending transfer</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:33:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5cda53ce07032010245ffbbf7c1ed089</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:33:00</sys_updated_on>
+            <value>pending_transfer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>保留中の転送</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:33:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18da53ce07032010245ffbbf7c1ed08c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:33:00</sys_updated_on>
+            <value>pending_transfer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pre-allocated</label>
+            <language>en</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:33:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0da53ce07032010245ffbbf7c1ed08f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:33:00</sys_updated_on>
+            <value>pre_allocated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>事前割り当て済み</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_hardware_read_only</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 03:33:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9cda53ce07032010245ffbbf7c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 03:33:00</sys_updated_on>
+            <value>pre_allocated</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

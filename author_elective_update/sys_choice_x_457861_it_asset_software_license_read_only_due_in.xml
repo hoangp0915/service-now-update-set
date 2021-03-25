@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="due_in" table="x_457861_it_asset_software_license_read_only" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>due_in</element>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-23 10:47:58</sys_created_on>
+            <sys_id>0ac4b3bd07472010245ffbbf7c1ed0d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>due_in</sys_name>
+            <sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope>
+            <sys_update_name>sys_choice_x_457861_it_asset_software_license_read_only_due_in</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-23 10:47:58</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>due_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 Day</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e47105d607472010245ffbbf7c1ed0fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:23</sys_updated_on>
+            <value>1 Day</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>due_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 Hour</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>607145d607472010245ffbbf7c1ed001</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:24</sys_updated_on>
+            <value>1 Hour</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>due_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 Week</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c7145d607472010245ffbbf7c1ed003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:24</sys_updated_on>
+            <value>1 Week</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>due_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 日</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f47145d607472010245ffbbf7c1ed006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:24</sys_updated_on>
+            <value>1 Day</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>due_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 時間</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>787145d607472010245ffbbf7c1ed015</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:24</sys_updated_on>
+            <value>1 Hour</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>due_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 週間</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>347145d607472010245ffbbf7c1ed018</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:24</sys_updated_on>
+            <value>1 Week</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

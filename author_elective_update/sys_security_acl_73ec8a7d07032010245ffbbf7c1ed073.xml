@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_457861_it_asset_hardware_read_only</description>
+        <name>x_457861_it_asset_hardware_read_only</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-23 03:14:14</sys_created_on>
+        <sys_id>73ec8a7d07032010245ffbbf7c1ed073</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_457861_it_asset_hardware_read_only</sys_name>
+        <sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope>
+        <sys_update_name>sys_security_acl_73ec8a7d07032010245ffbbf7c1ed073</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-23 03:14:14</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</application>
+        <file_path/>
+        <instance_id>a83b2576dbc63b482f68c597059619d2</instance_id>
+        <instance_name>dev87957</instance_name>
+        <name>sys_security_acl_73ec8a7d07032010245ffbbf7c1ed073</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_457861_it_asset_hardware_read_only</description><name>x_457861_it_asset_hardware_read_only</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-23 03:14:14</sys_created_on><sys_id>73ec8a7d07032010245ffbbf7c1ed073</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_457861_it_asset_hardware_read_only</sys_name><sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope><sys_update_name>sys_security_acl_73ec8a7d07032010245ffbbf7c1ed073</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-23 03:14:14</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1042871244</payload_hash>
+        <record_name>x_457861_it_asset_hardware_read_only</record_name>
+        <reverted_from/>
+        <source>82ac8af907032010245ffbbf7c1ed0af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-23 03:14:14</sys_created_on>
+        <sys_id>3bec8a7d07032010245ffbbf7c1ed075</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1785d1363460000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-23 03:14:14</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>73ec8a7d34032010114baca991057175</update_guid>
+        <update_guid_history>73ec8a7d34032010114baca991057175:-1042871244</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-23 10:57:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>0e52cde89202440087c85389f3a10000</sys_id>
+        <sys_metadata>73ec8a7d07032010245ffbbf7c1ed073</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_457861_it_asset_hardware_read_only</sys_name>
+        <sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package>
+        <sys_parent display_value="">f7ec8a7d07032010245ffbbf7c1ed07e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope>
+        <sys_scope_delete display_value="">67912c6a17944940b5a5bf2208ceff49</sys_scope_delete>
+        <sys_update_name>sys_security_acl_73ec8a7d07032010245ffbbf7c1ed073</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_73ec8a7d07032010245ffbbf7c1ed073">3bec8a7d07032010245ffbbf7c1ed075</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-23 10:57:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

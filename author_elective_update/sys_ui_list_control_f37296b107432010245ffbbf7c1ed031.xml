@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_list_control">
+    <sys_ui_list_control action="DELETE">
+        <columns_condition/>
+        <edit_condition/>
+        <edit_default_filter/>
+        <edit_roles/>
+        <empty_condition/>
+        <filter_condition/>
+        <filter_roles/>
+        <hierarchical_lists>false</hierarchical_lists>
+        <label/>
+        <link_condition/>
+        <link_roles/>
+        <list_edit_insert_row>false</list_edit_insert_row>
+        <list_edit_ref_qual_tag/>
+        <list_edit_type>disabled</list_edit_type>
+        <name>x_457861_it_asset_hardware_read_only</name>
+        <new_condition/>
+        <new_roles/>
+        <omit_columns_if_empty>false</omit_columns_if_empty>
+        <omit_drilldown_link>true</omit_drilldown_link>
+        <omit_edit_button>true</omit_edit_button>
+        <omit_filters>false</omit_filters>
+        <omit_if_empty>false</omit_if_empty>
+        <omit_links>true</omit_links>
+        <omit_new_button>true</omit_new_button>
+        <related_list/>
+        <sys_class_name>sys_ui_list_control</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-23 03:38:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f37296b107432010245ffbbf7c1ed031</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_457861_it_asset_hardware_read_only</sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope>
+        <sys_update_name>sys_ui_list_control_f37296b107432010245ffbbf7c1ed031</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-23 04:07:24</sys_updated_on>
+    </sys_ui_list_control>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</application>
+        <file_path/>
+        <instance_id>a83b2576dbc63b482f68c597059619d2</instance_id>
+        <instance_name>dev87957</instance_name>
+        <name>sys_ui_list_control_f37296b107432010245ffbbf7c1ed031</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_list_control"><sys_ui_list_control action="INSERT_OR_UPDATE"><columns_condition/><edit_condition/><edit_default_filter/><edit_roles/><empty_condition/><filter_condition/><filter_roles/><hierarchical_lists>false</hierarchical_lists><label/><link_condition/><link_roles/><list_edit_insert_row>false</list_edit_insert_row><list_edit_ref_qual_tag/><list_edit_type>disabled</list_edit_type><name>x_457861_it_asset_hardware_read_only</name><new_condition/><new_roles/><omit_columns_if_empty>false</omit_columns_if_empty><omit_drilldown_link>true</omit_drilldown_link><omit_edit_button>true</omit_edit_button><omit_filters>false</omit_filters><omit_if_empty>false</omit_if_empty><omit_links>true</omit_links><omit_new_button>true</omit_new_button><related_list/><sys_class_name>sys_ui_list_control</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-23 03:38:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f37296b107432010245ffbbf7c1ed031</sys_id><sys_mod_count>2</sys_mod_count><sys_name>x_457861_it_asset_hardware_read_only</sys_name><sys_overrides display_value="">global</sys_overrides><sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope><sys_update_name>sys_ui_list_control_f37296b107432010245ffbbf7c1ed031</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-23 04:07:24</sys_updated_on></sys_ui_list_control></record_update>]]></payload>
+        <payload_hash>2020950945</payload_hash>
+        <record_name>x_457861_it_asset_hardware_read_only</record_name>
+        <reverted_from/>
+        <source>82ac8af907032010245ffbbf7c1ed0af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-23 04:07:25</sys_created_on>
+        <sys_id>261992b507432010245ffbbf7c1ed003</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1785d44104b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-23 04:07:25</sys_updated_on>
+        <type>List Control</type>
+        <update_guid>ae1992b5d1432010f7158cd1a2a40902</update_guid>
+        <update_guid_history>ae1992b5d1432010f7158cd1a2a40902:2020950945,59f89ef5de432010b49ea85cd0e17dff:114145997,468296b1cd432010fb0f3b4130d21d9f:775103264</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-23 11:01:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list_control">sys_ui_list_control</sys_db_object>
+        <sys_id>9c5989ee696c43edbbf2df7f29505d51</sys_id>
+        <sys_metadata>f37296b107432010245ffbbf7c1ed031</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_457861_it_asset_hardware_read_only</sys_name>
+        <sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package>
+        <sys_parent display_value="">56dc4a7d07032010245ffbbf7c1ed091</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope>
+        <sys_scope_delete display_value="">67912c6a17944940b5a5bf2208ceff49</sys_scope_delete>
+        <sys_update_name>sys_ui_list_control_f37296b107432010245ffbbf7c1ed031</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_control_f37296b107432010245ffbbf7c1ed031">261992b507432010245ffbbf7c1ed003</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-23 11:01:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

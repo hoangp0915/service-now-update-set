@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <name>Copy data from Software License to Software License Read Only</name>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2021-03-24 08:16:11</run_start>
+        <run_time>1970-01-02 05:05:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[clearData();
+copyData();
+
+/**
+ * Clear data x_457861_it_asset_hardware_read_only table
+ *
+ */
+function clearData() {
+    gs.info('[Scheduled Script Execution] - [START] Delete all record');
+    try {
+        var gr = new GlideRecord('x_457861_it_asset_software_license_read_only');
+        gr.query();
+        if (gr.hasNext()) {
+            gr.deleteMultiple();
+        }
+    } catch (ex) {
+        throw (ex);
+    }
+    gs.info('[Scheduled Script Execution] - [END] Delete all record');
+}
+
+/**
+ * copy data from alm_hardware to x_457861_it_asset_hardware_read_only
+ *
+ */
+function copyData() {
+    gs.info('[Scheduled Script Execution] - [START] Copy data');
+    try {
+        var gr = new GlideRecord('alm_license');
+        gr.query();
+        while (gr.next()) {
+            var ins = new GlideRecord('x_457861_it_asset_software_license_read_only');
+            ins.initialize();
+			// get column alm_license
+            var elements = gr.getElements();
+            for (var i = 0; i < elements.length; i++) {
+                var key = elements[i].getName();
+                ins[key] = gr.getValue(key);
+            }
+            ins.insert();
+
+        }
+    } catch (ex) {
+        throw (ex);
+    }
+    gs.info('[Scheduled Script Execution] - [END] Copy data');
+}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-24 08:17:27</sys_created_on>
+        <sys_id>e8ab949a07c32010245ffbbf7c1ed0db</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Copy data from Software License to Software License Read Only</sys_name>
+        <sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope>
+        <sys_update_name>sysauto_script_e8ab949a07c32010245ffbbf7c1ed0db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 07:02:47</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

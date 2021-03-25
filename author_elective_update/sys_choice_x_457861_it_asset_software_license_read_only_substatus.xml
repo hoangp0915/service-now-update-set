@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="substatus" table="x_457861_it_asset_software_license_read_only" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>substatus</element>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-23 10:48:14</sys_created_on>
+            <sys_id>8ed4f7bd07472010245ffbbf7c1ed01f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>substatus</sys_name>
+            <sys_package display_value="IT Asset Management" source="x_457861_it_asset">ceac8af907032010245ffbbf7c1ed0ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Asset Management">ceac8af907032010245ffbbf7c1ed0ac</sys_scope>
+            <sys_update_name>sys_choice_x_457861_it_asset_software_license_read_only_substatus</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-23 10:48:14</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Available</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d7145d607472010245ffbbf7c1ed07f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Available</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>957145d607472010245ffbbf7c1ed082</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>利用可能</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>917145d607472010245ffbbf7c1ed08d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>利用可能</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d57145d607472010245ffbbf7c1ed08a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Disposed</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>517145d607472010245ffbbf7c1ed085</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>disposed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>廃棄済み</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d7145d607472010245ffbbf7c1ed08f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>disposed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lost</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d7145d607472010245ffbbf7c1ed087</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>lost</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>紛失</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>197145d607472010245ffbbf7c1ed092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>lost</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reserved</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d7145d607472010245ffbbf7c1ed097</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reserved</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d17145d607472010245ffbbf7c1ed095</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:26</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>予約済み</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>997145d607472010245ffbbf7c1ed0a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>予約済み</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd7145d607472010245ffbbf7c1ed09f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sold</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>597145d607472010245ffbbf7c1ed09a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>sold</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>販売済み</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>217145d607472010245ffbbf7c1ed0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>sold</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Stolen</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>157145d607472010245ffbbf7c1ed09d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>stolen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>盗難</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>557145d607472010245ffbbf7c1ed0a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>stolen</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Defective</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a57145d607472010245ffbbf7c1ed0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>defective</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Defective</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e97145d607472010245ffbbf7c1ed0aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>defective</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>欠陥品</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a17145d607472010245ffbbf7c1ed0b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>defective</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>欠陥品</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e57145d607472010245ffbbf7c1ed0b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>defective</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Donated</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>617145d607472010245ffbbf7c1ed0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>donated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>寄贈済み</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d7145d607472010245ffbbf7c1ed0b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>donated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending install</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d7145d607472010245ffbbf7c1ed0ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>pending_install</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>保留中のインストール</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>697145d607472010245ffbbf7c1ed0c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>pending_install</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending repair</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>297145d607472010245ffbbf7c1ed0bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>pending_repair</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>保留中の修理</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>257145d607472010245ffbbf7c1ed0c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>pending_repair</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vendor credit</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e17145d607472010245ffbbf7c1ed0c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>vendor_credit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ベンダークレジット</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad7145d607472010245ffbbf7c1ed0c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>vendor_credit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending disposal</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed7145d607472010245ffbbf7c1ed0ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:27</sys_updated_on>
+            <value>pending_disposal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>保留中の廃棄</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>217145d607472010245ffbbf7c1ed0d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:28</sys_updated_on>
+            <value>pending_disposal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending install</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a97145d607472010245ffbbf7c1ed0cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:28</sys_updated_on>
+            <value>pending_install</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>保留中のインストール</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>657145d607472010245ffbbf7c1ed0d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:28</sys_updated_on>
+            <value>pending_install</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending disposal</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e97145d607472010245ffbbf7c1ed0d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:28</sys_updated_on>
+            <value>pending_disposal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>保留中の廃棄</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d7145d607472010245ffbbf7c1ed0dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:28</sys_updated_on>
+            <value>pending_disposal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pre-allocated</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b57145d607472010245ffbbf7c1ed0d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:28</sys_updated_on>
+            <value>pre_allocated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>事前割り当て済み</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>717145d607472010245ffbbf7c1ed0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:28</sys_updated_on>
+            <value>pre_allocated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending transfer</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f57145d607472010245ffbbf7c1ed0e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:28</sys_updated_on>
+            <value>pending_transfer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>保留中の転送</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b17145d607472010245ffbbf7c1ed0e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:28</sys_updated_on>
+            <value>pending_transfer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pre-allocated</label>
+            <language>en</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d7145d607472010245ffbbf7c1ed0e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:28</sys_updated_on>
+            <value>pre_allocated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>substatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>事前割り当て済み</label>
+            <language>ja</language>
+            <name>x_457861_it_asset_software_license_read_only</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-24 11:01:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>397145d607472010245ffbbf7c1ed0e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-24 11:01:28</sys_updated_on>
+            <value>pre_allocated</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
